@@ -36,6 +36,9 @@ body{
 .dropbtn:hover{
 	background-color:#636B99;
 }
+#menuBtn > i .fa .fa-bars{
+	font-size: 36px;
+}
 .dropdown-content{
 	display:none;
         position:absolute;
